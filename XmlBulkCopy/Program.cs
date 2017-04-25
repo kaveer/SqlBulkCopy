@@ -12,6 +12,7 @@ namespace XmlBulkCopy
 {
     class Program
     {
+        //test
         static string connectionString = @"Data Source=DESKTOP-AODP2NL\SQL12FULL;Initial Catalog=Staging;Integrated Security=True";
 
         static void Main(string[] args)
